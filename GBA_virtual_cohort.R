@@ -169,7 +169,7 @@ for(z in c(50,100,200,300,600,700,800,1000,2000))
     temp$pheno <- rep(0:1, length.out = length(temp$ID))
     
     
-    ## use below for balancing, comment out to line 211 if not balancing
+    ## use below for balancing, comment out to line 214 if not balancing
     
     # temp1 <- temp[sample(nrow(temp), 1),]
     # temp1$pheno <- 0
