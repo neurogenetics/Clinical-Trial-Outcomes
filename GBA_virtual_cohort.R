@@ -6,8 +6,6 @@
 ##### Create virtual GBA cohort with effect sizes from study
 
 
-### Virtual Cohorts
-
 ### 60000 global pop
 
 library(tidyr)
